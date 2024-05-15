@@ -6,6 +6,7 @@
   <img src="https://github.com/swurpyy/swurpyy/assets/122777153/9a30a683-ab4b-4d24-8910-9badddde51fe" />
 </p>
 
+<!-- 
 ## Current projects
 ### Korant
 
@@ -14,3 +15,4 @@ A short PS1 styled horror game I'm working on. Previously used Godot but switche
 <img src="https://github.com/swurpyy/swurpyy/assets/122777153/aa745f0e-8fa6-42c8-975e-77fa8619fd27" alt="model head" width="600"/>
 
 Gameplay is yet to be developed :)
+-->
